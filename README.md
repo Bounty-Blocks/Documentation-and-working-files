@@ -11,4 +11,4 @@ Our solution is token-agnostic: sponsors fund in one asset; hackers claim in ano
 Built on Flow for programmable issue management and atomic payouts, and Walrus for privacy-preserving evidence and selective disclosure, BountyBlocks delivers an end-to-end, transparent, auditable bounty workflow.
 
 ## This repo:
- - This repo is used to store non-code files (such as images, diagrams, slides, etc.) used in our development of BountyBlocks at ETHGlobal NYC. It is intended to show the thought process that went into development and hold things like the pitch deck that don't fit in well in the code repos.
+This repo is used to store non-code files (such as images, diagrams, slides, etc.) used in our development of BountyBlocks at ETHGlobal NYC. It is intended to show the thought process that went into development and hold things like the pitch deck that don't fit in well in the code repos.
