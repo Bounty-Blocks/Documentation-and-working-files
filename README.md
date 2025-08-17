@@ -12,3 +12,7 @@ Built on Flow for programmable issue management and atomic payouts, and Walrus f
 
 ## This repo:
 This repo is used to store non-code files (such as images, diagrams, slides, etc.) used in our development of BountyBlocks at ETHGlobal NYC. It is intended to show the thought process that went into development and hold things like the pitch deck that don't fit in well in the code repos.
+
+## See also:
+- The web 3 portion of this project: github.com/Bounty-Blocks/bountyblocks-next-app
+- The front-end portion of this project (including deployment on Walrus): github.com/Bounty-Blocks/bountyblocks-next-app
